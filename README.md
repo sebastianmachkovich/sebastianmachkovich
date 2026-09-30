@@ -69,17 +69,6 @@
 | 🔌 **MCP & AI tooling** | Connecting developer workflows to AI assistants |
 | ☁️ **Cloud platform engineering** | Terraform, AWS migrations, and CI/CD at scale |
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sebastianmachkovich&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmachkovich&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=sebastianmachkovich&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ## 📫 Let's Connect
 
 <div align="center">
