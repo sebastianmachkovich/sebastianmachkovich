@@ -20,7 +20,7 @@
 - 🏗️ Write **Terraform** so application teams can provision cloud resources to platform standards
 - 🔌 Built a **FlexDeploy MCP server** that lets ~150 users run CI/CD pipelines and deployments from their IDE
 - 🤖 Built a VS Code extension that routes **GitHub Copilot** through **Google Vertex AI**, plus AI agents on **AWS Bedrock**
-- 🏠 Real estate investor on the side
+- 🏠 Real estate & stock market investor on the side
 - 🎓 B.S. Computer Science (UW-Green Bay), now working on an MBA in IT Management (UW-Whitewater)
 
 ## 🛠️ Tech Stack
